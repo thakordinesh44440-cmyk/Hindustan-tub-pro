@@ -1,0 +1,6 @@
+{
+  "name": "VideoHub",
+  "description": "A modern mobile video-sharing app inspired by YouTube, with original branding and UI styling.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
